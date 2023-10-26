@@ -1,0 +1,1 @@
+Double click on 'tutorial_game.py' to play the game
